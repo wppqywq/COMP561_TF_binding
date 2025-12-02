@@ -1,0 +1,19 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Project data and outputs (do not track)
+legacy/
+data/
+output/
